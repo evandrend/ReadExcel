@@ -1,0 +1,14 @@
+c:\users\utilizador\documents\visual studio 2015\Projects\Lutero\Lutero\bin\Debug\Lutero.exe.config
+c:\users\utilizador\documents\visual studio 2015\Projects\Lutero\Lutero\bin\Debug\Lutero.exe
+c:\users\utilizador\documents\visual studio 2015\Projects\Lutero\Lutero\bin\Debug\Lutero.pdb
+c:\users\utilizador\documents\visual studio 2015\Projects\Lutero\Lutero\obj\Debug\Lutero.csprojResolveAssemblyReference.cache
+c:\users\utilizador\documents\visual studio 2015\Projects\Lutero\Lutero\obj\Debug\Lutero.exe
+c:\users\utilizador\documents\visual studio 2015\Projects\Lutero\Lutero\obj\Debug\Lutero.pdb
+C:\Users\utilizador\Documents\Visual Studio 2015\Projects\Lutero\Lutero\bin\Debug\ClosedXML.dll
+C:\Users\utilizador\Documents\Visual Studio 2015\Projects\Lutero\Lutero\bin\Debug\DocumentFormat.OpenXml.dll
+C:\Users\utilizador\Documents\Visual Studio 2015\Projects\Lutero\Lutero\bin\Debug\ExcelNumberFormat.dll
+C:\Users\utilizador\Documents\Visual Studio 2015\Projects\Lutero\Lutero\bin\Debug\FastMember.dll
+C:\Users\utilizador\Documents\Visual Studio 2015\Projects\Lutero\Lutero\bin\Debug\ClosedXML.pdb
+C:\Users\utilizador\Documents\Visual Studio 2015\Projects\Lutero\Lutero\bin\Debug\ClosedXML.xml
+C:\Users\utilizador\Documents\Visual Studio 2015\Projects\Lutero\Lutero\bin\Debug\DocumentFormat.OpenXml.xml
+C:\Users\utilizador\Documents\Visual Studio 2015\Projects\Lutero\Lutero\bin\Debug\ExcelNumberFormat.xml
